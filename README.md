@@ -42,4 +42,6 @@ It is a dataset comprised of 60,000 small square 28×28 pixel grayscale images o
 9: Ankle boot
 
 It is a more challenging classification problem than MNIST and top results are achieved by deep learning convolutional neural networks with a classification accuracy of about 90% to 95% on the hold out test dataset.
+
+
 Complete colab notebook available at : https://colab.research.google.com/drive/1CXOi5tm59LN-hdhmh0eL1rkYViBSFMlf#scrollTo=VSzMh8LqD1gC 
