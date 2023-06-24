@@ -4,8 +4,8 @@ Collab notebooks of AIML sessions
 
 
 
-##Convolutional Neural Networking on Fashion Dataset using CNN
->1.# Fashion MNIST Clothing Classification
+## Convolutional Neural Networking on Fashion Dataset using CNN
+>1. Fashion MNIST Clothing Classification
 
 The Fashion MNIST dataset is meant to be a (slightly more challenging) drop-in replacement for the (less challenging) MNIST dataset.
 
